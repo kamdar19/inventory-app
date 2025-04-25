@@ -1,0 +1,1 @@
+export type Layer = { qty: number; rate: number };
