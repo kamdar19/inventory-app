@@ -1,0 +1,2 @@
+# inventory-app
+stock transactions
